@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-export DIR="/home/root/listen_to_atlas"
+export DIR="/root/listen_to_atlas"
 
 echo "*** Starting to launch program ***"
 

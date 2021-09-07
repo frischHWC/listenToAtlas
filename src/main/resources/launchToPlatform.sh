@@ -4,7 +4,7 @@
 # export HOST=
 
 export USER=root
-export DEST_DIR="/home/root/listen_to_atlas"
+export DEST_DIR="/root/listen_to_atlas"
 
 echo "Create needed directory on platform and send required files there"
 
